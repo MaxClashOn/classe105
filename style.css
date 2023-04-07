@@ -1,0 +1,13 @@
+body{
+    background-color: aliceblue;
+}
+p{
+ font-size:   22px;
+}
+b,button{
+font-size: 20px;
+}
+#camera{
+    border:2px double rgb(85, 85, 164);
+
+}
